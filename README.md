@@ -1,7 +1,6 @@
 <div align="center"><img src="header.svg"></div>
 
-i'm *mimsadAlef(mohammad sadegh abdollahi)*
----
+i'm *mimsadAlef (mohammad sadegh abdollahi)*
 <h2 align="center">Technologies & Languages I use</h2>
 
 <p align="center">
