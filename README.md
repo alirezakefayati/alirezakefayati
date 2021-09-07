@@ -1,4 +1,4 @@
-<div align="center"><object data="header.svg"></object></div>
+<div align="center"><img src="header.svg"></div>
 
 i'm *mimsadAlef(mohammad sadegh abdollahi)*
 ---
