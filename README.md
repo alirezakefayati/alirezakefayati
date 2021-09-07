@@ -1,5 +1,11 @@
-### Hi there 👋 im mimsadAlef(mohammad sadegh abdollahi)
+<div align="center">
+    <img src="header.svg" alt="MimsadAlef">
+</div>
+
+i'm *mimsadAlef(mohammad sadegh abdollahi)*
 ---
+<h2 align="center">Technologies & Languages I use</h2>
+
 <p align="center">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -14,16 +20,13 @@
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
     <img src="https://img.shields.io/badge/-linux-FFBF00?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
 </p>
----
-<h2 align="center"></h2>
+
+<h2 align="center">me on Social Network</h2>
 
 <p align="center">
     <a href="https://github.com/MimsadAlef">
         <img src="https://img.shields.io/github/followers/MimsadAlef?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
     </a>
-    <!--<a href="#">
-        <img src="https://img.shields.io/twitter/follow/MimsadAlef?label=Twitter&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
-    </a>-->
     <a href="mailto:admin@dehkadehman.ir">
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
     </a>
@@ -34,3 +37,4 @@
         <img src="https://img.shields.io/badge/-Virgool-7fc2f7?style=for-the-badge" alt="Virgool">
     </a>
 </p>
+<h2 align="center">my project</h2>
