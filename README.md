@@ -1,6 +1,7 @@
 <div align="center"><img src="header.svg"></div>
 
-i'm *mimsadAlef (mohammad sadegh abdollahi)*
+i'm **mimsadAlef (mohammad sadegh abdollahi)**
+
 <h2 align="center">Technologies & Languages I use</h2>
 
 <p align="center">
@@ -28,7 +29,7 @@ i'm *mimsadAlef (mohammad sadegh abdollahi)*
         <img src="https://img.shields.io/badge/-Email-D14836?logo=Mail.Ru&logoColor=white&style=for-the-badge" alt="Email">
     </a>
     <a href="https://aparat.com/sonodsmedia.ir">
-        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="Aparat">
+        <img src="https://img.shields.io/badge/-Aparat-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="Aparat">
     </a>
     <a href="https://virgol.io/@MimsadAlef">
         <img src="https://img.shields.io/badge/-Virgool-7fc2f7?style=for-the-badge" alt="Virgool">
