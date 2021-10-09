@@ -24,11 +24,11 @@ i'm *mimsadAlef (mohammad sadegh abdollahi)*
     <a href="https://github.com/MimsadAlef">
         <img src="https://img.shields.io/github/followers/MimsadAlef?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
     </a>
-    <a href="mailto:admin@dehkadehman.ir">
-        <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
+    <a href="mailto:mimsadAlef@@mail.ir">
+        <img src="https://img.shields.io/badge/-Email-D14836?logo=Mail.Ru&logoColor=white&style=for-the-badge" alt="Email">
     </a>
     <a href="https://aparat.com/sonodsmedia.ir">
-        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="Aparat">
     </a>
     <a href="https://virgol.io/@MimsadAlef">
         <img src="https://img.shields.io/badge/-Virgool-7fc2f7?style=for-the-badge" alt="Virgool">
