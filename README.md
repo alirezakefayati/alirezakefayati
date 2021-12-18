@@ -1,9 +1,9 @@
 <div align="center"><h1> Hi, I'm alirezakefayati </h1></div>
 
-<h2 align="center">Technologies & Languages I use</h2>
+<h2 align="center">My skills & Technologies & Languages I use</h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="php.png" alt="PHP">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Java Script">
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black" alt="Vue.js">
