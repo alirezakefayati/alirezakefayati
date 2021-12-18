@@ -1,7 +1,5 @@
 <div align="center">Hi, I'm alirezakefayati</div>
 
-i'm **alireza kefayati**
-
 <h2 align="center">Technologies & Languages I use</h2>
 
 <p align="center">
