@@ -20,7 +20,7 @@
         <img src="email.png" alt="Email" width="80px">
     </a>
     <a href="https://aparat.com/nava_enghelab">
-        <img src="aparat.png" alt="Aparat" width="80px">
+        <img src="aparat2.png" alt="Aparat" width="80px">
     </a>
     <a href="https://virgol.io/@haniph_ir">
         <img src="virgool2.png" alt="Virgool" width="80px">
