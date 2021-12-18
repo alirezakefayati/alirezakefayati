@@ -35,7 +35,7 @@
     <a href="https://haniph.ir" target="_blank">
         <img src="haniph.jpg" alt="GitHub" width="80px">
     </a>
-    <a href="mfaegh.ir" target="_blank">
+    <a href="https://mfaegh.ir" target="_blank">
         <img src="mfaegh_ir.jpeg" alt="Email" width="80px">
     </a>
     <a href="https://aparat.com/nava_enghelab" target="_blank">
