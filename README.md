@@ -23,7 +23,7 @@
         <img src="aparat.png" alt="Aparat" width="80px">
     </a>
     <a href="https://virgol.io/@haniph_ir">
-        <img src="virgool.png" alt="Virgool" width="80px">
+        <img src="virgool2.png" alt="Virgool" width="80px">
     </a>
 </p>
 <h2 align="center">my project</h2>
