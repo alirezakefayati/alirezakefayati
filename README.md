@@ -29,4 +29,22 @@
         <img src="ble.png" alt="bale" width="80px">
     </a>
 </p>
-<h2 align="center">my project</h2>
+<h2 align="center">The projects I want to do</h2>
+
+<p align="center">
+    <a href="haniph_ir" target="_blank">
+        <img src="haniph.jpg" alt="GitHub" width="80px">
+    </a>
+    <a href="mailto:alirezakefayati@cmail.ir" target="_blank">
+        <img src="email.png" alt="Email" width="80px">
+    </a>
+    <a href="https://aparat.com/nava_enghelab" target="_blank">
+        <img src="aparat2.png" alt="Aparat" width="80px">
+    </a>
+    <a href="https://virgool.io/@haniph_ir" target="_blank">
+        <img src="virgool2.png" alt="Virgool" width="80px">
+    </a>
+    <a href="https://ble.ir/haniph_ir" target="_blank">
+        <img src="ble.png" alt="bale" width="80px">
+    </a>
+</p>
