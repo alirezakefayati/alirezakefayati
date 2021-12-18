@@ -10,7 +10,7 @@
     <img src="python.png" alt="VS Code" width="80px">
 </p>
 
-<h2 align="center">me on Social Network</h2>
+<h2 align="center">me and haniph company on Social Network</h2>
 
 <p align="center">
     <a href="https://github.com/alirezakefayati" target="_blank">
