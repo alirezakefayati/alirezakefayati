@@ -22,10 +22,10 @@
     <a href="https://aparat.com/nava_enghelab" target="_blank">
         <img src="aparat2.png" alt="Aparat" width="80px">
     </a>
-    <a href="https://virgol.io/@haniph_ir" target="_blank">
+    <a href="https://virgool.io/@haniph_ir" target="_blank">
         <img src="virgool2.png" alt="Virgool" width="80px">
     </a>
-    <a href="https://ble.ir/gomname" target="_blank">
+    <a href="https://ble.ir/haniph_ir" target="_blank">
         <img src="ble.png" alt="bale" width="80px">
     </a>
 </p>
