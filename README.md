@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 20px;">Hi, I'm alirezakefayati</div>
+<div align="center" style="font-size: 50px;">Hi, I'm alirezakefayati</div>
 
 <h2 align="center">Technologies & Languages I use</h2>
 
