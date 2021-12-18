@@ -1,6 +1,6 @@
 <div align="center"><h1> Hi, I'm alirezakefayati </h1></div>
 
-<h2 align="center">My skills & Technologies & Languages I use</h2>
+<h2 align="center">framework & Languages I use</h2>
 
 <p align="center">
     <img src="php.png" alt="PHP" width="60px">
