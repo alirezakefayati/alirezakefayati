@@ -4,7 +4,7 @@
 
 <p align="center">
     <img src="php.png" alt="PHP" width="60px">
-    <img src="js.png" alt="Java Script" width="70px">
+    <img src="js.png" alt="Java Script" width="60px">
     <img src="laravel.png" alt="Laravel" width="60px">
     <img src="vue.png" alt="Vue.js" width="60px">
     <img src="python.png" alt="VS Code" width="60px">
