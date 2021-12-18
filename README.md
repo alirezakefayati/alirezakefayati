@@ -7,7 +7,7 @@
     <img src="js.png" alt="Java Script" width="60px">
     <img src="laravel.png" alt="Laravel" width="60px">
     <img src="vue.png" alt="Vue.js" width="60px">
-    <img src="csharp.png" alt="C#" width="60px">
+    <img src="csharp.png.png" alt="C#" width="60px">
     <img src="Git.png" alt="Git" width="60px">
     <img src="Github.png" alt="GitHub" width="60px">
     <img src="Html.png" alt="HTML" width="60px">
