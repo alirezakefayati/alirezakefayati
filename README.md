@@ -35,8 +35,8 @@
     <a href="https://haniph.ir" target="_blank">
         <img src="haniph.jpg" alt="GitHub" width="80px">
     </a>
-    <a href="mailto:alirezakefayati@cmail.ir" target="_blank">
-        <img src="email.png" alt="Email" width="80px">
+    <a href="mfaegh.ir" target="_blank">
+        <img src="mfaegh_ir.jpeg" alt="Email" width="80px">
     </a>
     <a href="https://aparat.com/nava_enghelab" target="_blank">
         <img src="aparat2.png" alt="Aparat" width="80px">
