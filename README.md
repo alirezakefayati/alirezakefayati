@@ -13,19 +13,19 @@
 <h2 align="center">me and haniph company on Social Network</h2>
 
 <p align="center">
-    <a href="https://github.com/alirezakefayati" target="_blank">
+    <a href="https://github.com/alirezakefayati">
         <img src="github.png" alt="GitHub" width="80px">
     </a>
-    <a href="mailto:alirezakefayati@cmail.ir" target="_blank">
+    <a href="mailto:alirezakefayati@chmail.ir">
         <img src="email.png" alt="Email" width="80px">
     </a>
-    <a href="https://aparat.com/nava_enghelab" target="_blank">
+    <a href="https://aparat.com/nava_enghelab">
         <img src="aparat2.png" alt="Aparat" width="80px">
     </a>
-    <a href="https://virgool.io/@haniph_ir" target="_blank">
+    <a href="https://virgool.io/@haniph_ir">
         <img src="virgool2.png" alt="Virgool" width="80px">
     </a>
-    <a href="https://ble.ir/haniph_ir" target="_blank">
+    <a href="https://ble.ir/haniph_ir">
         <img src="ble.png" alt="bale" width="80px">
     </a>
 </p>
