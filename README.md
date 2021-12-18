@@ -3,18 +3,18 @@
 <h2 align="center">framework & Languages I use</h2>
 
 <p align="center">
-    <img src="php.png" alt="PHP" width="60px">
-    <img src="js.png" alt="Java Script" width="60px">
-    <img src="laravel.png" alt="Laravel" width="60px">
-    <img src="vue.png" alt="Vue.js" width="60px">
-    <img src="python.png" alt="VS Code" width="60px">
+    <img src="php.png" alt="PHP" width="80px">
+    <img src="js.png" alt="Java Script" width="80px">
+    <img src="laravel.png" alt="Laravel" width="80px">
+    <img src="vue.png" alt="Vue.js" width="80px">
+    <img src="python.png" alt="VS Code" width="80px">
 </p>
 
 <h2 align="center">me on Social Network</h2>
 
 <p align="center">
     <a href="https://github.com/alirezakefayati">
-        <img src="github.png" alt="GitHub">
+        <img src="github.png" alt="GitHub" width="80px">
     </a>
     <a href="mailto:alirezakefayati@cmail.ir">
         <img src="https://img.shields.io/badge/-Email-D14836?logo=Mail.Ru&logoColor=white&style=for-the-badge" alt="Email">
