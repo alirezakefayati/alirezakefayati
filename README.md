@@ -32,7 +32,7 @@
 <h2 align="center">The projects I want to do</h2>
 
 <p align="center">
-    <a href="haniph_ir" target="_blank">
+    <a href="haniph.ir" target="_blank">
         <img src="haniph.jpg" alt="GitHub" width="80px">
     </a>
     <a href="mailto:alirezakefayati@cmail.ir" target="_blank">
