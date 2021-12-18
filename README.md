@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://github.com/alirezakefayati">
-        <img src="https://img.shields.io/github/followers/MimsadAlef?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+        <img src="github.png" alt="GitHub">
     </a>
     <a href="mailto:alirezakefayati@cmail.ir">
         <img src="https://img.shields.io/badge/-Email-D14836?logo=Mail.Ru&logoColor=white&style=for-the-badge" alt="Email">
