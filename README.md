@@ -26,7 +26,7 @@
         <img src="virgool2.png" alt="Virgool" width="80px">
     </a>
     <a href="https://ble.ir/gomname">
-        <img src="bale.png" alt="Virgool" width="80px">
+        <img src="bale.png" alt="bale" width="80px">
     </a>
 </p>
 <h2 align="center">my project</h2>
