@@ -13,19 +13,19 @@
 <h2 align="center">me on Social Network</h2>
 
 <p align="center">
-    <a href="https://github.com/alirezakefayati">
+    <a href="https://github.com/alirezakefayati" target="_blank">
         <img src="github.png" alt="GitHub" width="80px">
     </a>
-    <a href="mailto:alirezakefayati@cmail.ir">
+    <a href="mailto:alirezakefayati@cmail.ir" target="_blank">
         <img src="email.png" alt="Email" width="80px">
     </a>
-    <a href="https://aparat.com/nava_enghelab">
+    <a href="https://aparat.com/nava_enghelab" target="_blank">
         <img src="aparat2.png" alt="Aparat" width="80px">
     </a>
-    <a href="https://virgol.io/@haniph_ir">
+    <a href="https://virgol.io/@haniph_ir" target="_blank">
         <img src="virgool2.png" alt="Virgool" width="80px">
     </a>
-    <a href="https://ble.ir/gomname">
+    <a href="https://ble.ir/gomname" target="_blank">
         <img src="ble.png" alt="bale" width="80px">
     </a>
 </p>
