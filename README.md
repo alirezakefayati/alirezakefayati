@@ -7,7 +7,6 @@
     <img src="js.png" alt="Java Script" width="60px">
     <img src="laravel.png" alt="Laravel" width="60px">
     <img src="vue.png" alt="Vue.js" width="60px">
-    <img src="csharp.png.png" alt="C#" width="60px">
     <img src="python.png" alt="VS Code" width="60px">
 </p>
 
