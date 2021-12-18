@@ -5,14 +5,14 @@
 <p align="center">
     <img src="php.png" alt="PHP" width="60px">
     <img src="js.png" alt="Java Script" width="60px">
-    <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black" alt="Vue.js">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+    <img src="laravel.png" alt="Laravel" width="60px">
+    <img src="vue.png" alt="Vue.js" width="60px">
+    <img src="csharp.png" alt="C#" width="60px">
+    <img src="Git.png" alt="Git" width="60px">
+    <img src="Github.png" alt="GitHub" width="60px">
+    <img src="Html.png" alt="HTML" width="60px">
+    <img src="css.png" alt="CSS" width="60px">
+    <img src="python.png" alt="VS Code" width="60px">
 </p>
 
 <h2 align="center">me on Social Network</h2>
