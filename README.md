@@ -19,13 +19,13 @@
     <a href="mailto:alirezakefayati@chmail.ir">
         <img src="email.png" alt="Email" width="80px">
     </a>
-    <a href="https://aparat.com/nava_enghelab">
+    <a href="https://aparat.com/alirezakefayati">
         <img src="aparat2.png" alt="Aparat" width="80px">
     </a>
     <a href="https://virgool.io/@haniph_ir">
         <img src="virgool2.png" alt="Virgool" width="80px">
     </a>
-    <a href="https://ble.ir/haniph_ir">
+    <a href="https://ble.ir/gomname">
         <img src="ble.png" alt="bale" width="80px">
     </a>
 </p>
