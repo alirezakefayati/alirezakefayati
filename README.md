@@ -33,7 +33,7 @@
 
 <p align="center">
     <a href="https://haniph.ir" target="_blank">
-        <img src="haniph.jpg" alt="GitHub" width="80px">
+        <img src="haniph.png" alt="GitHub" width="80px">
     </a>
     <a href="https://mfaegh.ir" target="_blank">
         <img src="mfaegh_ir.png" alt="Email" width="80px">
