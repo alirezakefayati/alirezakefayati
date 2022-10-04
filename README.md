@@ -22,7 +22,7 @@
     <a href="https://aparat.com/alirezakefayati">
         <img src="aparat2.png" alt="Aparat" width="80px">
     </a>
-    <a href="https://virgool.io/@haniph_ir">
+    <a href="https://virgool.io/@alirezakefayati">
         <img src="virgool2.png" alt="Virgool" width="80px">
     </a>
     <a href="https://ble.ir/gomname">
